@@ -1,5 +1,8 @@
-## Olá é um prazer conheçe-lo sou waxzin sejá bem-vindo!!
+## Olá é um prazer conheçe-lo, sou waxzin e sejá bem-vindo!!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Waxzin&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Waxzin&layout=compact)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=Waxzin" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Waxzin&layout=compact&langs_count=8&card_width=320" />
+</a>
