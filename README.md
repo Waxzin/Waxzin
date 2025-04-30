@@ -1,4 +1,4 @@
-## Olá é um prazer conheçe-lo, sou waxzin e sejá bem-vindo!!
+## Olá é um prazer conheçe-lo, sou waxzin sejá bem-vindo!!
 
 <div>
   <a href= https://github-readme-stats.vercel.app/api>
