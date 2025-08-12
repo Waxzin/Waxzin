@@ -1,4 +1,5 @@
-## Olá é um prazer conheçe-lo, sou Matheus e sejá muito bem-vindo!!
+## Olá Seja Bem-vindo ao meu GitHub, me chamo Matheus.
+e aqui está meus projetos!!
 
 <div>
   <a href= https://github-readme-stats.vercel.app/api>
