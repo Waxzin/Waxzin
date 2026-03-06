@@ -1,12 +1,6 @@
 ## Olá Seja Bem-vindo ao meu GitHub, me chamo Matheus.
 e aqui está meus projetos!!
 
-<div>
-  <a href= https://github-readme-stats.vercel.app/api>
-    <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=waxzin&show_icons=true&theme=tokyonight">
-     <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waxzin&layout-compact&langs_count-16&theme-dark">
-</div>
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Wax-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Wax-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
