@@ -7,7 +7,7 @@ e aqui está meus projetos!!
   <img align="left" alt="Wax-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="left" alt="Wax-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="left" alt="Wax-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="left" alt="Wax-CSS" height="35" width="40" src="https://img.icons8.com/?size=100&id=45490&format=png&color=000000">
+   <img align="left" alt="Wax-CSS" height="35" width="35" src="https://img.icons8.com/?size=100&id=45490&format=png&color=000000">
 </div>
 
    ##
