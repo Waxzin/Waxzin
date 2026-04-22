@@ -1,5 +1,5 @@
-## Olá Seja Bem-vindo ao meu GitHub, me chamo Matheus.
-e aqui está meus projetos!!
+## Olá Bem-vindo ao meu GitHub, me chamo Matheus.
+<h2>Esses são alguns de muitos projetos</h2>
 
 <div style="display: inline_block"><br>
   <img align="left" alt="Wax-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
