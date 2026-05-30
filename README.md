@@ -10,7 +10,7 @@
    <img align="left" alt="Wax-CSS" height="35" width="35" src="https://img.icons8.com/?size=100&id=45490&format=png&color=000000">
 </div>
 
-   ##
+   ## 📫 Entre em contato comigo!
 
 <div> 
   <a href="https://www.instagram.com/_lingunie_/#" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
